@@ -22,6 +22,10 @@
 	- Launch ```NetBeans IDE```, ```Open Projects```, and browse to this project directory
 	- Right click on the project name, and click ```Run``` to run the project
 	- For building the project into ```.jar``` file, right click and click ```Clean and Build```. Output is in ```dist``` directory
-
+- Run Program 
+	- See Release page: https://github.com/afzafri/CSC238-Payroll-System/releases/latest
+	- Download the ```Payroll.jar``` file and double click to run.
+	- Note: Java JRE is required.
+	
 # License
 This library is under MIT license, please look at the ```LICENSE``` file
